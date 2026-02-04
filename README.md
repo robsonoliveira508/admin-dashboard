@@ -18,7 +18,7 @@ Criar um dashboard funcional que simule cenários reais de sistemas administrati
 - Evolução contínua
 
 ## 📈 Status
-🟡 Em desenvolvimento — evolução contínua documentada no LinkedIn.
+🟡 Em desenvolvimento, evolução contínua documentada no LinkedIn.
 
 ## 📸 Preview
 _(em breve)_
