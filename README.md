@@ -1,14 +1,24 @@
-# Dashboard Admin (React + Vite)
+# Admin Dashboard – React + Vite
 
-Projeto de dashboard administrativo para praticar arquitetura, navegação e módulos reais.
+Dashboard administrativo desenvolvido com React e Vite, com foco em organização de código, arquitetura de frontend e experiência do usuário.
 
-## Módulos
-- Tasks: CRUD + filtros + persistência
-- Products: CRUD + categorias + status
+## 🚀 Tecnologias
+- React
+- Vite
+- JavaScript
+- CSS / Tailwind (em breve)
+- LocalStorage
+- Consumo de API REST
 
-## Stack
-- React + Vite + TypeScript
+## 🎯 Objetivo do projeto
+Criar um dashboard funcional que simule cenários reais de sistemas administrativos, como:
+- Listagem e gerenciamento de dados
+- Persistência local
+- Componentização
+- Evolução contínua
 
-## Rodar local
-npm install
-npm run dev
+## 📈 Status
+🟡 Em desenvolvimento — evolução contínua documentada no LinkedIn.
+
+## 📸 Preview
+_(em breve)_
