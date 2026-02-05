@@ -1,4 +1,4 @@
-# Admin Dashboard – React + Vite
+# Admin Dashboard - React + Vite
 
 Dashboard administrativo desenvolvido com React e Vite, com foco em organização de código, arquitetura de frontend e experiência do usuário.
 
